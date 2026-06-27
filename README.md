@@ -11,4 +11,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/abhinendraa2025/leetcode/tree/master/0467-unique-substrings-in-wraparound-string) |
+## Array
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/abhinendraa2025/leetcode/tree/master/0560-subarray-sum-equals-k) |
+## Hash Table
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/abhinendraa2025/leetcode/tree/master/0560-subarray-sum-equals-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/abhinendraa2025/leetcode/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
