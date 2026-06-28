@@ -15,15 +15,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/abhinendraa2025/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0840-magic-squares-in-grid](https://github.com/abhinendraa2025/leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/abhinendraa2025/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Hash Table
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/abhinendraa2025/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0840-magic-squares-in-grid](https://github.com/abhinendraa2025/leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/abhinendraa2025/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/abhinendraa2025/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/abhinendraa2025/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+## Math
+|  |
+| ------- |
+| [0840-magic-squares-in-grid](https://github.com/abhinendraa2025/leetcode/tree/master/0840-magic-squares-in-grid) |
+## Matrix
+|  |
+| ------- |
+| [0840-magic-squares-in-grid](https://github.com/abhinendraa2025/leetcode/tree/master/0840-magic-squares-in-grid) |
 <!---LeetCode Topics End-->
