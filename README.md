@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/abhinendraa2025/leetcode/tree/master/0467-unique-substrings-in-wraparound-string) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/abhinendraa2025/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/abhinendraa2025/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0840-magic-squares-in-grid](https://github.com/abhinendraa2025/leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/abhinendraa2025/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/abhinendraa2025/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Hash Table
 |  |
 | ------- |
