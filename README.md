@@ -41,4 +41,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0840-magic-squares-in-grid](https://github.com/abhinendraa2025/leetcode/tree/master/0840-magic-squares-in-grid) |
+## Tree
+|  |
+| ------- |
+| [0979-distribute-coins-in-binary-tree](https://github.com/abhinendraa2025/leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0979-distribute-coins-in-binary-tree](https://github.com/abhinendraa2025/leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0979-distribute-coins-in-binary-tree](https://github.com/abhinendraa2025/leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
 <!---LeetCode Topics End-->
