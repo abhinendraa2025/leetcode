@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/abhinendraa2025/leetcode/tree/master/0056-merge-intervals) |
 | [0525-contiguous-array](https://github.com/abhinendraa2025/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/abhinendraa2025/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0840-magic-squares-in-grid](https://github.com/abhinendraa2025/leetcode/tree/master/0840-magic-squares-in-grid) |
@@ -70,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/abhinendraa2025/leetcode/tree/master/0567-permutation-in-string) |
+## Sorting
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/abhinendraa2025/leetcode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
