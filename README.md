@@ -12,12 +12,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/abhinendraa2025/leetcode/tree/master/0055-jump-game) |
 | [0357-count-numbers-with-unique-digits](https://github.com/abhinendraa2025/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/abhinendraa2025/leetcode/tree/master/0467-unique-substrings-in-wraparound-string) |
 ## Array
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/abhinendraa2025/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0055-jump-game](https://github.com/abhinendraa2025/leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/abhinendraa2025/leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/abhinendraa2025/leetcode/tree/master/0057-insert-interval) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/abhinendraa2025/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -93,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0357-count-numbers-with-unique-digits](https://github.com/abhinendraa2025/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/abhinendraa2025/leetcode/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
