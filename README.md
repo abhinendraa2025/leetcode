@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/abhinendraa2025/leetcode/tree/master/0125-valid-palindrome) |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/abhinendraa2025/leetcode/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0567-permutation-in-string](https://github.com/abhinendraa2025/leetcode/tree/master/0567-permutation-in-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/abhinendraa2025/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/abhinendraa2025/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0125-valid-palindrome](https://github.com/abhinendraa2025/leetcode/tree/master/0125-valid-palindrome) |
 | [0567-permutation-in-string](https://github.com/abhinendraa2025/leetcode/tree/master/0567-permutation-in-string) |
 ## Sliding Window
 |  |
