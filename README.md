@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/abhinendraa2025/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0840-magic-squares-in-grid](https://github.com/abhinendraa2025/leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/abhinendraa2025/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0986-interval-list-intersections](https://github.com/abhinendraa2025/leetcode/tree/master/0986-interval-list-intersections) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/abhinendraa2025/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Hash Table
 |  |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/abhinendraa2025/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/abhinendraa2025/leetcode/tree/master/0125-valid-palindrome) |
 | [0567-permutation-in-string](https://github.com/abhinendraa2025/leetcode/tree/master/0567-permutation-in-string) |
+| [0986-interval-list-intersections](https://github.com/abhinendraa2025/leetcode/tree/master/0986-interval-list-intersections) |
 ## Sliding Window
 |  |
 | ------- |
@@ -101,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/abhinendraa2025/leetcode/tree/master/0055-jump-game) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/abhinendraa2025/leetcode/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
