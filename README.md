@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/abhinendraa2025/leetcode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/abhinendraa2025/leetcode/tree/master/0055-jump-game) |
 | [0213-house-robber-ii](https://github.com/abhinendraa2025/leetcode/tree/master/0213-house-robber-ii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/abhinendraa2025/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/abhinendraa2025/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0042-trapping-rain-water](https://github.com/abhinendraa2025/leetcode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/abhinendraa2025/leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/abhinendraa2025/leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/abhinendraa2025/leetcode/tree/master/0057-insert-interval) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/abhinendraa2025/leetcode/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/abhinendraa2025/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/abhinendraa2025/leetcode/tree/master/0125-valid-palindrome) |
 | [0567-permutation-in-string](https://github.com/abhinendraa2025/leetcode/tree/master/0567-permutation-in-string) |
@@ -109,4 +112,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/abhinendraa2025/leetcode/tree/master/0986-interval-list-intersections) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/abhinendraa2025/leetcode/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/abhinendraa2025/leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
