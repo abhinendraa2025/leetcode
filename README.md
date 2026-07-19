@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/abhinendraa2025/leetcode/tree/master/0213-house-robber-ii) |
 | [0525-contiguous-array](https://github.com/abhinendraa2025/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/abhinendraa2025/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0749-contain-virus](https://github.com/abhinendraa2025/leetcode/tree/master/0749-contain-virus) |
 | [0840-magic-squares-in-grid](https://github.com/abhinendraa2025/leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/abhinendraa2025/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0986-interval-list-intersections](https://github.com/abhinendraa2025/leetcode/tree/master/0986-interval-list-intersections) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/abhinendraa2025/leetcode/tree/master/0079-word-search) |
+| [0749-contain-virus](https://github.com/abhinendraa2025/leetcode/tree/master/0749-contain-virus) |
 | [0840-magic-squares-in-grid](https://github.com/abhinendraa2025/leetcode/tree/master/0840-magic-squares-in-grid) |
 ## Tree
 |  |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/abhinendraa2025/leetcode/tree/master/0079-word-search) |
+| [0749-contain-virus](https://github.com/abhinendraa2025/leetcode/tree/master/0749-contain-virus) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/abhinendraa2025/leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/abhinendraa2025/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
@@ -79,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0749-contain-virus](https://github.com/abhinendraa2025/leetcode/tree/master/0749-contain-virus) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/abhinendraa2025/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Two Pointers
 |  |
@@ -133,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/abhinendraa2025/leetcode/tree/master/0021-merge-two-sorted-lists) |
+## Simulation
+|  |
+| ------- |
+| [0749-contain-virus](https://github.com/abhinendraa2025/leetcode/tree/master/0749-contain-virus) |
 <!---LeetCode Topics End-->
