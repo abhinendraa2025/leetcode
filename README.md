@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0079-word-search](https://github.com/abhinendraa2025/leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/abhinendraa2025/leetcode/tree/master/0125-valid-palindrome) |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/abhinendraa2025/leetcode/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0567-permutation-in-string](https://github.com/abhinendraa2025/leetcode/tree/master/0567-permutation-in-string) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/abhinendraa2025/leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/abhinendraa2025/leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/abhinendraa2025/leetcode/tree/master/0057-insert-interval) |
+| [0079-word-search](https://github.com/abhinendraa2025/leetcode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/abhinendraa2025/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0213-house-robber-ii](https://github.com/abhinendraa2025/leetcode/tree/master/0213-house-robber-ii) |
 | [0525-contiguous-array](https://github.com/abhinendraa2025/leetcode/tree/master/0525-contiguous-array) |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/abhinendraa2025/leetcode/tree/master/0079-word-search) |
 | [0840-magic-squares-in-grid](https://github.com/abhinendraa2025/leetcode/tree/master/0840-magic-squares-in-grid) |
 ## Tree
 |  |
@@ -65,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/abhinendraa2025/leetcode/tree/master/0079-word-search) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/abhinendraa2025/leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/abhinendraa2025/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
@@ -103,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0079-word-search](https://github.com/abhinendraa2025/leetcode/tree/master/0079-word-search) |
 | [0357-count-numbers-with-unique-digits](https://github.com/abhinendraa2025/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 ## Greedy
 |  |
