@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/abhinendraa2025/leetcode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/abhinendraa2025/leetcode/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/abhinendraa2025/leetcode/tree/master/0070-climbing-stairs) |
 | [0213-house-robber-ii](https://github.com/abhinendraa2025/leetcode/tree/master/0213-house-robber-ii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/abhinendraa2025/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/abhinendraa2025/leetcode/tree/master/0467-unique-substrings-in-wraparound-string) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/abhinendraa2025/leetcode/tree/master/0070-climbing-stairs) |
 | [0357-count-numbers-with-unique-digits](https://github.com/abhinendraa2025/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0840-magic-squares-in-grid](https://github.com/abhinendraa2025/leetcode/tree/master/0840-magic-squares-in-grid) |
 ## Matrix
@@ -141,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0749-contain-virus](https://github.com/abhinendraa2025/leetcode/tree/master/0749-contain-virus) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/abhinendraa2025/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
