@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/abhinendraa2025/leetcode/tree/master/0072-edit-distance) |
 | [0213-house-robber-ii](https://github.com/abhinendraa2025/leetcode/tree/master/0213-house-robber-ii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/abhinendraa2025/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
+| [0403-frog-jump](https://github.com/abhinendraa2025/leetcode/tree/master/0403-frog-jump) |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/abhinendraa2025/leetcode/tree/master/0467-unique-substrings-in-wraparound-string) |
 ## Array
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/abhinendraa2025/leetcode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/abhinendraa2025/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0213-house-robber-ii](https://github.com/abhinendraa2025/leetcode/tree/master/0213-house-robber-ii) |
+| [0403-frog-jump](https://github.com/abhinendraa2025/leetcode/tree/master/0403-frog-jump) |
 | [0525-contiguous-array](https://github.com/abhinendraa2025/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/abhinendraa2025/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0749-contain-virus](https://github.com/abhinendraa2025/leetcode/tree/master/0749-contain-virus) |
