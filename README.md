@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/abhinendraa2025/leetcode/tree/master/0070-climbing-stairs) |
 | [0357-count-numbers-with-unique-digits](https://github.com/abhinendraa2025/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0840-magic-squares-in-grid](https://github.com/abhinendraa2025/leetcode/tree/master/0840-magic-squares-in-grid) |
+| [3536-maximum-product-of-two-digits](https://github.com/abhinendraa2025/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Matrix
 |  |
 | ------- |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/abhinendraa2025/leetcode/tree/master/0056-merge-intervals) |
+| [3536-maximum-product-of-two-digits](https://github.com/abhinendraa2025/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Binary Search
 |  |
 | ------- |
