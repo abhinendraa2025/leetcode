@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0357-count-numbers-with-unique-digits](https://github.com/abhinendraa2025/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0403-frog-jump](https://github.com/abhinendraa2025/leetcode/tree/master/0403-frog-jump) |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/abhinendraa2025/leetcode/tree/master/0467-unique-substrings-in-wraparound-string) |
+| [1770-maximum-score-from-performing-multiplication-operations](https://github.com/abhinendraa2025/leetcode/tree/master/1770-maximum-score-from-performing-multiplication-operations) |
 ## Array
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/abhinendraa2025/leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/abhinendraa2025/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0986-interval-list-intersections](https://github.com/abhinendraa2025/leetcode/tree/master/0986-interval-list-intersections) |
+| [1770-maximum-score-from-performing-multiplication-operations](https://github.com/abhinendraa2025/leetcode/tree/master/1770-maximum-score-from-performing-multiplication-operations) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/abhinendraa2025/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Hash Table
 |  |
