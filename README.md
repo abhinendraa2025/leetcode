@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0467-unique-substrings-in-wraparound-string](https://github.com/abhinendraa2025/leetcode/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0567-permutation-in-string](https://github.com/abhinendraa2025/leetcode/tree/master/0567-permutation-in-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/abhinendraa2025/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/abhinendraa2025/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/abhinendraa2025/leetcode/tree/master/0070-climbing-stairs) |
 | [0357-count-numbers-with-unique-digits](https://github.com/abhinendraa2025/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0840-magic-squares-in-grid](https://github.com/abhinendraa2025/leetcode/tree/master/0840-magic-squares-in-grid) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/abhinendraa2025/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/abhinendraa2025/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Matrix
 |  |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/abhinendraa2025/leetcode/tree/master/0055-jump-game) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/abhinendraa2025/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Sweep Line
 |  |
 | ------- |
