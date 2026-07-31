@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/abhinendraa2025/leetcode/tree/master/0567-permutation-in-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/abhinendraa2025/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/abhinendraa2025/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhinendraa2025/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/abhinendraa2025/leetcode/tree/master/0567-permutation-in-string) |
 | [0840-magic-squares-in-grid](https://github.com/abhinendraa2025/leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/abhinendraa2025/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhinendraa2025/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/abhinendraa2025/leetcode/tree/master/0056-merge-intervals) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhinendraa2025/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/abhinendraa2025/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Binary Search
 |  |
@@ -134,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/abhinendraa2025/leetcode/tree/master/0055-jump-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/abhinendraa2025/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhinendraa2025/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sweep Line
 |  |
 | ------- |
@@ -162,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/abhinendraa2025/leetcode/tree/master/0070-climbing-stairs) |
+## Counting
+|  |
+| ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhinendraa2025/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 <!---LeetCode Topics End-->
