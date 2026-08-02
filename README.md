@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0357-count-numbers-with-unique-digits](https://github.com/abhinendraa2025/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0403-frog-jump](https://github.com/abhinendraa2025/leetcode/tree/master/0403-frog-jump) |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/abhinendraa2025/leetcode/tree/master/0467-unique-substrings-in-wraparound-string) |
+| [0877-stone-game](https://github.com/abhinendraa2025/leetcode/tree/master/0877-stone-game) |
 | [1770-maximum-score-from-performing-multiplication-operations](https://github.com/abhinendraa2025/leetcode/tree/master/1770-maximum-score-from-performing-multiplication-operations) |
 ## Array
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/abhinendraa2025/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0749-contain-virus](https://github.com/abhinendraa2025/leetcode/tree/master/0749-contain-virus) |
 | [0840-magic-squares-in-grid](https://github.com/abhinendraa2025/leetcode/tree/master/0840-magic-squares-in-grid) |
+| [0877-stone-game](https://github.com/abhinendraa2025/leetcode/tree/master/0877-stone-game) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/abhinendraa2025/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0986-interval-list-intersections](https://github.com/abhinendraa2025/leetcode/tree/master/0986-interval-list-intersections) |
 | [1770-maximum-score-from-performing-multiplication-operations](https://github.com/abhinendraa2025/leetcode/tree/master/1770-maximum-score-from-performing-multiplication-operations) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/abhinendraa2025/leetcode/tree/master/0070-climbing-stairs) |
 | [0357-count-numbers-with-unique-digits](https://github.com/abhinendraa2025/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0840-magic-squares-in-grid](https://github.com/abhinendraa2025/leetcode/tree/master/0840-magic-squares-in-grid) |
+| [0877-stone-game](https://github.com/abhinendraa2025/leetcode/tree/master/0877-stone-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/abhinendraa2025/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/abhinendraa2025/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Matrix
@@ -170,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhinendraa2025/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/abhinendraa2025/leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
